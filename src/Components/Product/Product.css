@@ -1,6 +1,8 @@
 .product {
+  height: 450px;
   border: 2px solid gray;
   border-radius: 15px;
+  position: relative;
 }
 .product-info {
   margin: 10px;
@@ -11,9 +13,26 @@
 }
 .product-info h4 {
   font-size: 22px;
+  margin-bottom: 0;
 }
 .product-info h5 {
   font-size: 18px;
+  margin-top: 10px;
+}
+.add-btn {
+  width: 100%;
+  font-size: 18px;
+  position: absolute;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  border-radius: 0 0 12px 12px;
+  background-color: orange;
+}
+.add-btn p {
+  margin-right: 10px;
 }
 
 /* responsive css */

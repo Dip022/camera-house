@@ -2,13 +2,13 @@
   margin: 80px 0 80px 0;
   display: grid;
   grid-template-columns: 4fr 1fr;
-  gap: 25px;
+  gap: 35px;
 }
 .product-container {
   margin-left: 50px;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 40px;
+  gap: 30px;
 }
 
 /* responsive css */

@@ -1,6 +1,6 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faCoffee } from "@fortawesome/free-solid-svg-icons";
+import { faShoppingCart } from "@fortawesome/free-solid-svg-icons";
 import "./Product.css";
 
 const Product = ({ product }) => {
@@ -11,10 +11,14 @@ const Product = ({ product }) => {
         <img src={img} alt="Canera" />
         <h4>{name}</h4>
         <h5>
-          price<span>$</span>
+          price: <span>$</span>
           {price}
         </h5>
       </div>
+      <button className="add-btn">
+        <p>Add to cart</p>
+        <FontAwesomeIcon icon={faShoppingCart}></FontAwesomeIcon>
+      </button>
     </div>
   );
 };
