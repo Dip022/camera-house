@@ -15,3 +15,10 @@
 .product-info h5 {
   font-size: 18px;
 }
+
+/* responsive css */
+@media screen and (max-width: 768px) {
+  .product {
+    margin: 20px 0;
+  }
+}

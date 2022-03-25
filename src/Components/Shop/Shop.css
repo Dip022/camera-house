@@ -1,11 +1,23 @@
 .shop-container {
-  margin: 80px 120px;
+  margin: 80px 0 80px 0;
   display: grid;
   grid-template-columns: 4fr 1fr;
   gap: 25px;
 }
 .product-container {
+  margin-left: 50px;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 40px;
+}
+
+/* responsive css */
+@media screen and (max-width: 768px) {
+  .shop-container {
+    display: contents;
+  }
+  .product-container {
+    display: contents;
+    gap: 0;
+  }
 }
