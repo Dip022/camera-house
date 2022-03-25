@@ -2,4 +2,10 @@
   margin: 80px 120px;
   display: grid;
   grid-template-columns: 4fr 1fr;
+  gap: 25px;
+}
+.product-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 40px;
 }
