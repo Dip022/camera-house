@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "name": "Canon Eos 4000D",
+    "price": 800,
+    "img": "https://www.startech.com.bd/image/cache/catalog/camera/dslr-camera/canon/4000d/4000d-1-500x500.jpg"
+  },
+  {
+    "id": "2",
+    "name": "CANON EOS 2000D",
+    "price": 500,
+    "img": "https://www.startech.com.bd/image/cache/catalog/camera/dslr-camera/canon/2000d/2000d-500x500.jpg"
+  },
+  {
+    "id": "3",
+    "name": "CANON EOS 250D",
+    "price": 700,
+    "img": "https://www.startech.com.bd/image/cache/catalog/camera/dslr-camera/canon/250d/250d-1-500x500.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Nikon D5600",
+    "price": 900,
+    "img": "https://www.startech.com.bd/image/cache/catalog/dslr-camera/nikon/d5600/d5600-1-500x500.jpg"
+  },
+  {
+    "id": "5",
+    "name": "CANON EOS 800D",
+    "price": 750,
+    "img": "https://www.startech.com.bd/image/cache/catalog/dslr-camera/canon/800d/800d-9-500x500.jpg"
+  },
+  {
+    "id": "6",
+    "name": "CANON EOS 200D",
+    "price": 680,
+    "img": "https://www.startech.com.bd/image/cache/catalog/camera/dslr-camera/canon/200d-ii/200d-ii-500x500.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Sony Alpha A6000",
+    "price": 999,
+    "img": "https://www.startech.com.bd/image/cache/catalog/dslr-camera/sony/%20alpha-a6000/a6000-500x500.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Panasonic Lumix DC-G100",
+    "price": 890,
+    "img": "https://www.startech.com.bd/image/cache/catalog/camera/mirriorless/panasonic/lumix-g100/g100-02-500x500.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Canon EOS M50 Mark",
+    "price": 708,
+    "img": "https://www.startech.com.bd/image/cache/catalog/camera/mirriorless/canon/eos-m50-mark-ii/eos-m50-mark-ii-01-500x500.jpg"
+  },
+  {
+    "id": "10",
+    "name": "Nikon D5600",
+    "price": 800,
+    "img": "https://www.startech.com.bd/image/cache/catalog/camera/dslr-camera/nikon/d5600/d5600-500x500.jpg"
+  },
+  {
+    "id": "11",
+    "name": "Sony Alpha A6400",
+    "price": 1080,
+    "img": "https://www.startech.com.bd/image/cache/catalog/digital-camera/sony/alpha-a6400/alpha-a6400-1-500x500.jpg"
+  },
+  {
+    "id": "12",
+    "name": "Canon EOS 90D",
+    "price": 1100,
+    "img": "https://www.startech.com.bd/image/cache/catalog/dslr-camera/canon/eos-90d/eos-90d-1-500x500.jpg"
+  }
+]
