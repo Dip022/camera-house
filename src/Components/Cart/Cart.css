@@ -1,0 +1,35 @@
+.cart-container {
+  position: sticky;
+  top: 0;
+  margin-top: 20px;
+}
+.cart-container h2 {
+  margin-top: 0;
+}
+.choose {
+  padding: 12px 12px;
+  border: 1px solid gray;
+  color: #035c03;
+  border-radius: 5px;
+  font-weight: bold;
+  background-color: #fff;
+}
+.choose:hover {
+  color: #fff;
+  border: none;
+  background-color: #035c03;
+}
+.reset {
+  padding: 12px 12px;
+  border: 1px solid gray;
+  color: red;
+  border-radius: 5px;
+  font-weight: bold;
+  margin-top: 20px;
+  background-color: #fff;
+}
+.reset:hover {
+  color: #fff;
+  border: none;
+  background-color: red;
+}

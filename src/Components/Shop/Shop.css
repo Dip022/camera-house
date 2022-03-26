@@ -1,8 +1,8 @@
 .shop-container {
-  margin: 80px 0 80px 0;
+  margin: 80px 0 50px 0;
   display: grid;
-  grid-template-columns: 4fr 1fr;
-  gap: 35px;
+  grid-template-columns: 4fr 2fr;
+  gap: 30px;
 }
 .product-container {
   margin-left: 50px;
@@ -19,5 +19,8 @@
   .product-container {
     display: contents;
     gap: 0;
+  }
+  .select-product {
+    margin: 50px 0;
   }
 }
