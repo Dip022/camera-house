@@ -19,8 +19,9 @@ const Shop = () => {
       setCart(newCart);
     }
   };
-  const resetProduct = () => {
+  const resetProduct = (setChooseProduct) => {
     setCart([]);
+    setChooseProduct([]);
   };
   return (
     <div className="shop-container">

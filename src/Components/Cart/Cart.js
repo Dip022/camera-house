@@ -22,7 +22,7 @@ const Cart = ({ cart, resetProduct }) => {
         CHOOSE 1 FOR ME
       </button>
       <br />
-      <button className="reset" onClick={resetProduct}>
+      <button className="reset" onClick={() => resetProduct(setChooseProduct)}>
         CHOOSE AGAIN
       </button>
     </div>

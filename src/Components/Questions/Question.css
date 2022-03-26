@@ -1,0 +1,13 @@
+.question {
+  border: 2px solid gray;
+  margin: 50px;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+/* responsive css */
+@media screen and (max-width: 768px) {
+  .question {
+    margin: 50px 0 50px 0;
+  }
+}
